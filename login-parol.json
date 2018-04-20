@@ -1,0 +1,22 @@
+		[ 
+			{
+				"name": "Oleg",
+				"login": "knyaz",
+				"pas": "1qaz"			
+			},	
+			{
+				"name": "Yana",
+				"login": "solntse", 
+				"pas": "2wsx"		
+			},	
+			{
+				"name": "ulyana", 
+				"login": "funny",
+				"pas": "3edc"		
+			},	
+			{ 
+				"name": "Alexey",
+				"login": "Alex", 
+				"pas": "4rfv"	
+			}
+		]	
